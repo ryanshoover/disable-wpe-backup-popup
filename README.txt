@@ -14,5 +14,5 @@ WordPress will "nag" you to backup your site before you install or update plugin
 Install & activate this plugin and watch that "nag" box disappear.
 
 == Installation ==
-# Upload the plugin to `wp-content/plugins/`
-# Activate the plugin
+1. Upload the plugin to `wp-content/plugins/`
+1. Activate the plugin
