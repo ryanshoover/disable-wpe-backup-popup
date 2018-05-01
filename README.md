@@ -17,3 +17,11 @@ Install & activate this plugin and watch that "nag" box disappear.
 
 1. Upload the plugin to `wp-content/plugins/`
 1. Activate the plugin
+
+## Changelog
+
+### 1.1
+
+* Top level admins will still see the backup prompt:
+  * Administrators on a single site setup.
+  * Super Administrators on a multisite setup.
